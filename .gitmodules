@@ -1,0 +1,6 @@
+[submodule "business-planner-server"]
+	path = business-planner-server
+	url = https://github.com/coderarda/business-planner-server.git
+[submodule "business-planner-app"]
+	path = business-planner-app
+	url = https://github.com/coderarda/business-planner-app.git
