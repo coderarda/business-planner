@@ -8,8 +8,8 @@
             "name": "Start web app",
             "configurations": [
                 "Launch Edge",
-                "Run npm dev",
-                "Launch Db Server"
+                "Run pnpm dev",
+                "Launch Dbserver"
             ]
         }
     ]
