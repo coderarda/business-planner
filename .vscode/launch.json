@@ -9,7 +9,7 @@
             "configurations": [
                 "Launch Edge",
                 "Run npm dev",
-                "Launch Db Server"
+                "Launch Db Server",
             ]
         }
     ]
